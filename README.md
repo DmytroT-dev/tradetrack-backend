@@ -1,9 +1,6 @@
 # tradetrack-backend
 MVP backend for a trading journal app built with Spring Boot.
 
-TradeTrack Backend — MVP for a trading journal app.
-This is the backend service built with Spring Boot.
-
 🚀 MVP features:
 
 Add and list trades
